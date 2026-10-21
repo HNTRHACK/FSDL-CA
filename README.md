@@ -1,2 +1,0 @@
-# FSDL-CA
-lab project
